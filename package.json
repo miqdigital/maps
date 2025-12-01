@@ -41,7 +41,7 @@
     "@expo/config-plugins": "^4.0.3",
     "@mapbox/geo-viewport": ">= 0.4.0",
     "@turf/along": "6.5.0",
-    "@turf/distance": "6.5.0",
+    "@turf/distance": "7.3.1",
     "@turf/helpers": "6.5.0",
     "@turf/length": "6.5.0",
     "@turf/nearest-point-on-line": "6.5.0",
